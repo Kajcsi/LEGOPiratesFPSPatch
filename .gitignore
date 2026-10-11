@@ -1,0 +1,8 @@
+# Never publish game binaries
+*.exe
+*.prefps
+*.steam
+*.dll
+*.tmp
+__pycache__/
+*.pyc
